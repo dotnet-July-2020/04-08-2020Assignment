@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListCollections\ListCollections\bin\Debug\ListCollections.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListCollections\ListCollections\bin\Debug\ListCollections.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListCollections\ListCollections\bin\Debug\ListCollections.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListCollections\ListCollections\obj\Debug\ListCollections.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListCollections\ListCollections\obj\Debug\ListCollections.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListCollections\ListCollections\obj\Debug\ListCollections.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListCollections\ListCollections\obj\Debug\ListCollections.pdb
