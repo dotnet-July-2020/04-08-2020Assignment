@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\DictionaryInCollections\DictionaryInCollections\bin\Debug\DictionaryInCollections.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\DictionaryInCollections\DictionaryInCollections\bin\Debug\DictionaryInCollections.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\DictionaryInCollections\DictionaryInCollections\bin\Debug\DictionaryInCollections.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\DictionaryInCollections\DictionaryInCollections\obj\Debug\DictionaryInCollections.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\DictionaryInCollections\DictionaryInCollections\obj\Debug\DictionaryInCollections.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\DictionaryInCollections\DictionaryInCollections\obj\Debug\DictionaryInCollections.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\DictionaryInCollections\DictionaryInCollections\obj\Debug\DictionaryInCollections.pdb
