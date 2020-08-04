@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\LinkedListInCollection\LinkedListInCollection\bin\Debug\LinkedListInCollection.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\LinkedListInCollection\LinkedListInCollection\bin\Debug\LinkedListInCollection.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\LinkedListInCollection\LinkedListInCollection\bin\Debug\LinkedListInCollection.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\LinkedListInCollection\LinkedListInCollection\obj\Debug\LinkedListInCollection.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\LinkedListInCollection\LinkedListInCollection\obj\Debug\LinkedListInCollection.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\LinkedListInCollection\LinkedListInCollection\obj\Debug\LinkedListInCollection.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\LinkedListInCollection\LinkedListInCollection\obj\Debug\LinkedListInCollection.pdb
