@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListAssignment\ListAssignment\bin\Debug\ListAssignment.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListAssignment\ListAssignment\bin\Debug\ListAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListAssignment\ListAssignment\bin\Debug\ListAssignment.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListAssignment\ListAssignment\obj\Debug\ListAssignment.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListAssignment\ListAssignment\obj\Debug\ListAssignment.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListAssignment\ListAssignment\obj\Debug\ListAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\ListAssignment\ListAssignment\obj\Debug\ListAssignment.pdb
